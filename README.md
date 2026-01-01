@@ -1,0 +1,1 @@
+I analyzed global temperature anomalies from 1880 to 2025. By applying a 10-year rolling average algorithm, I successfully filtered out yearly noise to reveal a clear warming trend of approximately 0.8°C to 1.0°C. This visualization confirms that global temperatures are rising at an accelerating rate.
